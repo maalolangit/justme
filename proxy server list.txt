@@ -1,4 +1,4 @@
-Last proxy servers	Server update: Wed, 18 Aug 21 09:42:39 +0300------------>this shi was fast asf so i noted it down for memory :) :(
+Last proxy servers	Server update: Wed, 18 Aug 21 09:42:39 +0300------------>this shi was fast asf so i noted it down for memory :) :(.
 Proxy by ip:port	Proxy type	Anonymity	Country	Uptime	Check date
  101.51.106.70:49285	HTTPS	HIA	Thailand	20% (118) -	18-aug-2021 09:36
  95.140.27.135:58901	HTTP	HIA	Russia	17% (72) +	18-aug-2021 09:36
